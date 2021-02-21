@@ -27,4 +27,7 @@ I'm looking for a Fullstack / Frontend / Backend Typescript Developer Role with 
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=00FF00)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-000?&logo=webrtc&logoColor=ECFF2E)
 ![Twilio](https://img.shields.io/badge/-Twilio-000?&logo=Twilio&logoColor=FF5733)
+![Electron](https://img.shields.io/badge/-Electron%20JS-000?&logo=electron&logoColor=ffffff)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=auth0&logoColor=FF5733)
+![IONIC](https://img.shields.io/badge/-IONIC-000?&logo=ionic)
 
