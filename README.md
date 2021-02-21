@@ -14,6 +14,7 @@
 
 ### Technologies
 
+![ANGULAR](https://img.shields.io/badge/-ANGULAR-000?&logo=Angular&logoColor=#FF0000)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
