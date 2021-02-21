@@ -31,3 +31,4 @@ I'm looking for a Fullstack / Frontend / Backend Typescript Developer Role with 
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=auth0&logoColor=FF5733)
 ![IONIC](https://img.shields.io/badge/-IONIC-000?&logo=ionic)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngisiro&show_icons=true&theme=dark)
