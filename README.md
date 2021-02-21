@@ -1,6 +1,8 @@
 [![Header](https://github.com/jngisiro/jngisiro/raw/main/info.gif)](http://ngisiro.vercel.app/)<!-- If you want the template for my gif, email me! -->
 
-# Hi there 👋. I'm looking for a Fullstack / Frontend / Backend Typescript Developer Role with Node and Angular
+## Hi there 👋. 
+
+I'm looking for a Fullstack / Frontend / Backend Typescript Developer Role with Node and Angular
 
 ### Languages
 
