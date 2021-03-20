@@ -33,4 +33,4 @@ I'm looking for a Fullstack / Frontend / Backend Typescript Developer Role with 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngisiro&show_icons=true&theme=dark)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ug5zavf5i9g4h4rfoxoe4rp8e&cover_image=true&theme=novatorem)](https://github.com/jngisiro)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ug5zavf5i9g4h4rfoxoe4rp8e&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
