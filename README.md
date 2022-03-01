@@ -2,7 +2,7 @@
 
 ## Hi there 👋. 
 
-I'm looking for a Fullstack / Frontend / Backend Typescript Developer Role with Node and Angular
+I'm a Fullstack / Frontend / Backend Typescript Developer specializing in Node and Angular
 
 ### Languages
 
