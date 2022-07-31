@@ -1,6 +1,6 @@
 [![Header](https://github.com/jngisiro/jngisiro/raw/main/IMG_3683.jpg)](http://ngisiro.vercel.app/)<!-- If you want the template for my gif, email me! -->
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jp_ngisiro.svg?style=social&label=Follow%20%40jp_ngisiro)](https://twitter.com/bukotsunikki)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jp_ngisiro.svg?style=social&label=Follow%20%40jp_ngisiro)](https://twitter.com/jp_ngisiro)
 
 ## Hi there 👋. 
 
