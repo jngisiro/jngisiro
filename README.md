@@ -3,7 +3,7 @@
 
 ## Hi there 👋. 
 
-I'm a Fullstack / Frontend / Backend Typescript Developer specializing in Node and Angular
+I'm a Fullstack Typescript Developer.
 
 ### Languages
 
