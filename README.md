@@ -7,13 +7,9 @@ I'm a Fullstack Typescript Developer.
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
 
@@ -30,6 +26,6 @@ I'm a Fullstack Typescript Developer.
 ![Twilio](https://img.shields.io/badge/-Twilio-000?&logo=Twilio&logoColor=FF5733)
 ![Electron](https://img.shields.io/badge/-Electron%20JS-000?&logo=electron&logoColor=ffffff)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=auth0&logoColor=FF5733)
-![IONIC](https://img.shields.io/badge/-IONIC-000?&logo=ionic)
+![Ionic](https://img.shields.io/badge/-IONIC-000?&logo=ionic)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ug5zavf5i9g4h4rfoxoe4rp8e&width=1000&unique=true&count=10)
